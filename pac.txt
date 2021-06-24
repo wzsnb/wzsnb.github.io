@@ -1,5 +1,5 @@
 //代理设置
-var proxy = "SOCKS5 127.0.0.1:7891;";
+var proxy = "SOCKS5 127.0.0.1:7890;";
 var direct = 'DIRECT;';
 // host,url匹配排除列表
 //不是正则匹配
